@@ -1,17 +1,17 @@
-# future CV – Daeun Kim
+# Future CV
 
 > **본 문서는 Future CV(미래 이력서)입니다.** 
-> 아래에 기재된 모든 인턴 경력, 프로젝트, 수상 내역 등은 가상으로 작성된 내용이며, 졸업 시점의 미래 모습을 상상하여 작성한 것입니다.
+> 아래에 기재된 모든 인턴 경력, 프로젝트, 수상 내역 등은 가상으로 작성된 내용이며, 과제를 위한 졸업 시점의 미래 모습을 상상하여 작성한 것입니다.
 
 ---
 
-# 김다은
+##김다은
 
 Frontend & Data-Driven Service Developer  
-AI + Embedded Systems | Aspiring Tech Innovator  
+AI + Embedded Systems | Problem-Solving Oriented Developer  
 
-📧 [dan0303@kw.ac.kr](mailto:dan0303@kw.ac.kr)  
-🔗 https://github.com/dddan0303   
+mail:  [dan0303@kw.ac.kr](mailto:dan0303@kw.ac.kr)  
+github: https://github.com/dddan0303   
 
 ---
 
@@ -20,7 +20,11 @@ AI + Embedded Systems | Aspiring Tech Innovator
 **희망 직무: Frontend Developer / Data-Based Service Developer**
 
 데이터와 소프트웨어를 기반으로, 사용자의 문제를 실제 서비스로 해결하는 개발자를 목표로 성장해 왔습니다.  
-단순한 기능 구현을 넘어, **실제 환경에서 동작하는 시스템을 설계하고 구현하는 것**에 강점을 가지고 있습니다.
+단순한 기능 구현을 넘어, **실제 환경에서 작동하며 사용자에게 가치를 전달하는 시스템을 설계하고 구현하는 것**에 강점을 가지고 있습니다.
+
+특히 데이터를 기반으로 문제를 분석하고, 이를 사용자 중심의 서비스로 연결하는 과정에 큰 흥미를 가지고 있으며,  
+프론트엔드, 백엔드, 그리고 시스템을 아우르는 통합적인 시각으로 서비스를 바라보고 있습니다.
+
 
 특히 다음과 같은 분야에 관심이 있습니다:
 
@@ -30,8 +34,8 @@ AI + Embedded Systems | Aspiring Tech Innovator
 - 사용자 중심 UX/UI 설계
 - AI 및 임베디드 시스템 연계 서비스
 
-데이터, 프론트엔드, 그리고 시스템을 연결하여  
-**“사용자에게 직접 가치를 전달하는 서비스”를 만드는 개발자**로 성장하고자 합니다.
+저는 기술을 단순히 구현하는 개발자가 아니라,  
+**문제를 정의하고 해결까지 연결하는 “문제 해결형 개발자”로 성장하고자 합니다.**
 
 ---
 
@@ -39,8 +43,9 @@ AI + Embedded Systems | Aspiring Tech Innovator
 
 ### 광운대학교 — 서울, 대한민국
 
-정보융합학부 데이터 전공  
+정보융합학부 데이터 전공 (복수전공 : 로봇학부 지능형 로봇 시스템)  
 2025년 3월 – 2029년 2월  
+GAP: 4.2/4.5
 
 - 주요 이수 과목:
   - 프로그래밍기초
@@ -56,9 +61,6 @@ AI + Embedded Systems | Aspiring Tech Innovator
   - 프론트엔드 개발
   - AI 시스템
   - 사용자 경험 설계
-
-- 복수전공:
-  - 로봇학부 (지능형 로봇 시스템) 
 
 ---
 
@@ -92,11 +94,7 @@ AI + Embedded Systems | Aspiring Tech Innovator
 - Naver Map API 및 Geolocation API를 활용한 위치 시각화 구현  
 - MySQL과 JSON 기반 데이터 통신 구조 설계  
 - 환자 상태에 따라 병원을 추천하는 로직 개발  
-- 긴급 상황에서도 직관적으로 사용할 수 있는 UI 설계  
-
-👉 관련 기술  
-- https://developers.naver.com  
-- https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API  
+- 긴급 상황에서도 직관적으로 사용할 수 있는 UI 설계    
 
 ---
 
@@ -134,9 +132,6 @@ AI + Embedded Systems | Aspiring Tech Innovator
 - ADsP — 2027  
 - AWS Certified Cloud Practitioner — 2028  
 
-AWS 공식 사이트  
-https://aws.amazon.com/certification/
-
 ---
 
 ## 수상 내역
@@ -153,20 +148,18 @@ https://aws.amazon.com/certification/
 ## 보유 역량
 
 ### Programming
-- Python  
-- C  
-- JavaScript  
-- HTML / CSS  
+- Python, C, JavaScript  
+- HTML / CSS   
 
 ### Backend / Data
 - MySQL  
-- REST API  
-- JSON 데이터 처리  
+- REST API 설계 및 활용  
+- JSON 데이터 처리
 
 ### Tools
 - Git / GitHub  
 - AWS  
-- Figma  
+- Figma (UI/UX 설계)
 - Firebase  
 
 ### Soft Skills
@@ -174,18 +167,21 @@ https://aws.amazon.com/certification/
 - 협업 및 문서 정리
 - 커뮤니케이션
 - 사용자 중심 문제 해결
-
 ---
 
-## 목표
+## 성장 목표
 
 - 데이터와 시스템을 연결하는 서비스 개발자 성장  
 - 실시간 데이터 처리 및 대규모 시스템 설계 역량 강화  
-- 기술을 통해 실제 사회 문제를 해결하는 서비스 개발  
+- 기술을 통해 실제 사회 문제를 해결하는 서비스 개발
+
+> 기술은 단순한 구현이 아니라, 문제를 해결하기 위한 도구라고 생각합니다.  
+> 앞으로도 사용자에게 실질적인 가치를 전달할 수 있는 서비스를 만드는 개발자로 성장하고자 합니다.
 
 ---
 
-## 📌 추천인
+
+## 추천인
 
 **박규동 교수님**  
 정보융합학부, 광운대학교
