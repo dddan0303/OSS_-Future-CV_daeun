@@ -11,7 +11,7 @@ Frontend & Data-Driven Service Developer
 AI + Embedded Systems | Problem-Solving Oriented Developer  
 
 mail:  [dan0303@kw.ac.kr](mailto:dan0303@kw.ac.kr)  
-github: https://github.com/dddan0303   
+github: [https://github.com/dddan0303](https://github.com/dddan0303)   
 
 ---
 
@@ -173,7 +173,6 @@ GAP: 4.2/4.5
 > 앞으로도 사용자에게 실질적인 가치를 전달할 수 있는 서비스를 만드는 개발자로 성장하고자 합니다.
 
 ---
-
 
 ## 추천인
 
