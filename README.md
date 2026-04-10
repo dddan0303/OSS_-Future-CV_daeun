@@ -138,7 +138,7 @@ GAP: 4.2/4.5
 
 ---
 
-## 보유 역량
+## 기술 스택
 
 ### Programming
 - Python, C, JavaScript  
