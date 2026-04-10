@@ -118,10 +118,10 @@ GAP: 4.2/4.5
 
 ## 자격증
 
-- 정보처리기사 — 2028  
-- SQLD — 2027  
-- ADsP — 2027  
-- AWS Certified Cloud Practitioner — 2028  
+- AWS Certified Cloud Practitioner — 2028 
+- 정보처리기사 — 2027  
+- SQLD (SQL 개발자) — 2026  
+- ADsP (데이터분석 준전문가) — 2026   
 
 ---
 
